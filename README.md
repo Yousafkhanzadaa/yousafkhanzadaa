@@ -77,8 +77,9 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark" alt="Contribution Graph" />
 </div>
 
-🏆 Featured Projects
-📱 Mobile Applications
+## 🏆 Featured Projects
+
+**📱 Mobile Applications**
 <div align="center">
   <table>
     <tr>
@@ -95,7 +96,8 @@ const developer = {
     </tr>
   </table>
 </div>
-🌐 Web Projects & Domains
+
+**🌐 Web Projects & Domains**
 <div align="center">
   <table>
     <tr>
@@ -112,7 +114,8 @@ const developer = {
     </tr>
   </table>
 </div>
-🤖 AI Projects
+
+**🤖 AI Projects**
 <div align="center">
   <table>
     <tr>
