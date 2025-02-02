@@ -20,7 +20,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Yousuf Khan",
     role: "Full Stack Developer & AI Engineer",
     experience: "8+ years",
     languages: ["JavaScript", "Python", "Dart", "TypeScript"],
@@ -28,7 +28,7 @@ const developer = {
         mobile: ["Flutter", "Android", "iOS"],
         frontend: ["Next.js", "React", "HTML5", "CSS3"],
         backend: ["FastAPI", "Node.js", "Firebase"],
-        ai: ["OpenAI", "RAG", "LangChain", "Fine-tuning"],
+        ai: ["OpenAI", "RAG", "LangChain", "Fine-tuning", "Mistral", "DeepSeek", "Claude", "LLAMA"],
         database: ["MongoDB", "Firebase", "PostgreSQL"],
         cloud: ["AWS", "Cloudflare", "GCP"]
     },
@@ -114,6 +114,6 @@ const developer = {
 
 ---
 <div align="center">
-  ⭐️ From [your-username](https://github.com/yousafkhanzadaa) | Last Updated: February 2024
+  ⭐️ From Yousuf Khan (https://github.com/yousafkhanzadaa) | Last Updated: February 2024
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
