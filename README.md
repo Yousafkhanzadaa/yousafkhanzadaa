@@ -1,4 +1,29 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World! I'm Yousuf Khan
+<svg viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern gradient background -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#14b8a6;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with gradient -->
+  <rect width="800" height="160" fill="url(#grad)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="60" cy="80" r="40" fill="#6366f1" opacity="0.1"/>
+  <circle cx="740" cy="80" r="40" fill="#14b8a6" opacity="0.1"/>
+  
+  <!-- Name text -->
+  <text x="400" y="70" font-family="Arial" font-size="36" font-weight="bold" text-anchor="middle" fill="#1f2937">
+    Yousuf Khan
+  </text>
+  
+  <!-- Title text -->
+  <text x="400" y="110" font-family="Arial" font-size="18" text-anchor="middle" fill="#4b5563">
+    Full Stack Developer &amp; AI Engineer
+  </text>
+</svg>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Engineer;Mobile+App+Developer;8%2B+Years+of+Coding+Experience" alt="Typing SVG" />
