@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World! I'm [Your Name] 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World! I'm Yousuf Khan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;AI+Engineer;Mobile+App+Developer;8%2B+Years+of+Coding+Experience" alt="Typing SVG" />
@@ -69,22 +69,22 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 ## 🏆 Featured Projects
 
 <div align="center">
   <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousafkhanzadaa&repo=your-repo-name&theme=radical" />
   </a>
   <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-name&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousafkhanzadaa&repo=your-repo-name&theme=radical" />
   </a>
 </div>
 
@@ -114,6 +114,6 @@ const developer = {
 
 ---
 <div align="center">
-  ⭐️ From [your-username](https://github.com/your-username) | Last Updated: February 2024
+  ⭐️ From [your-username](https://github.com/yousafkhanzadaa) | Last Updated: February 2024
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
