@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World! I'm Yousuf Khan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/musfk)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xmusfk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.khueonstudios.com/about)
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Tech animation"/>
@@ -61,12 +61,23 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=radical" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&ring_color=6366f1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=buefy&hide_border=true">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark&hide_border=true&bg_color=00000000&color=6366f1&line=6366f1&point=6366f1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=minimal&hide_border=true">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 ## 🏆 Featured Projects
@@ -76,14 +87,14 @@ const developer = {
   <table>
     <tr>
       <td align="center">
-        <b>App Name 1</b><br/>
-        <a href="your-playstore-link"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-        <a href="your-appstore-link"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+        <b>ReadFast</b><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.khueon.readfast&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+        <a href="https://apps.apple.com/us/app/read-fast-read-learn-lead/id6483846244"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
       </td>
       <td align="center">
-        <b>App Name 2</b><br/>
-        <a href="your-playstore-link"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-        <a href="your-appstore-link"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+        <b>SagesChat</b><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.celebs.talk&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+        <a href="https://apps.apple.com/us/app/sageschat-create-chat/id6642671272"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
       </td>
     </tr>
   </table>
@@ -94,14 +105,14 @@ const developer = {
   <table>
     <tr>
       <td align="center">
-        <b>Project 1</b><br/>
-        <a href="your-domain-1"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-        <p>Brief description of your project</p>
+        <b>Khueon Studios</b><br/>
+        <a href="https://www.khueonstudios.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+        <p>Hub of AI-Based Solution</p>
       </td>
       <td align="center">
-        <b>Project 2</b><br/>
-        <a href="your-domain-2"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
-        <p>Brief description of your project</p>
+        <b>VitrualMee</b><br/>
+        <a href="https://virtualmee-production.up.railway.app/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+        <p>Only authentic AI solution providers who can build AI Agents for you.</p>
       </td>
     </tr>
   </table>
@@ -112,14 +123,14 @@ const developer = {
   <table>
     <tr>
       <td align="center">
-        <b>AI Project 1</b><br/>
-        <a href="your-ai-project-1"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-        <p>Brief description of your AI project</p>
+        <b>SagesChat</b><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.celebs.talk&hl=en"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+        <p>Create Your Loved One AI Character and Chat</p>
       </td>
       <td align="center">
-        <b>AI Project 2</b><br/>
-        <a href="your-ai-project-2"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-        <p>Brief description of your AI project</p>
+        <b>Khueon Studios</b><br/>
+        <a href="https://www.khueonstudios.com"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+        <p>Hub of AI-Based Solution</p>
       </td>
     </tr>
   </table>
@@ -136,7 +147,7 @@ const developer = {
 
 <div align="center">
   <p>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:yousafkhanzadaa@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="your-calendly-link">
@@ -145,9 +156,12 @@ const developer = {
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yousafkhanzadaa/yousafkhanzadaa/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yousafkhanzadaa/yousafkhanzadaa/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/yousafkhanzadaa/yousafkhanzadaa/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 <div align="center">
