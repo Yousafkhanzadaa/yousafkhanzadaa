@@ -77,15 +77,57 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark" alt="Contribution Graph" />
 </div>
 
-## 🏆 Featured Projects
-
+🏆 Featured Projects
+📱 Mobile Applications
 <div align="center">
-  <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousafkhanzadaa&repo=your-repo-name&theme=radical" />
-  </a>
-  <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousafkhanzadaa&repo=your-repo-name&theme=radical" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <b>App Name 1</b><br/>
+        <a href="your-playstore-link"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+        <a href="your-appstore-link"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+      </td>
+      <td align="center">
+        <b>App Name 2</b><br/>
+        <a href="your-playstore-link"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+        <a href="your-appstore-link"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+🌐 Web Projects & Domains
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Project 1</b><br/>
+        <a href="your-domain-1"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+        <p>Brief description of your project</p>
+      </td>
+      <td align="center">
+        <b>Project 2</b><br/>
+        <a href="your-domain-2"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+        <p>Brief description of your project</p>
+      </td>
+    </tr>
+  </table>
+</div>
+🤖 AI Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>AI Project 1</b><br/>
+        <a href="your-ai-project-1"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+        <p>Brief description of your AI project</p>
+      </td>
+      <td align="center">
+        <b>AI Project 2</b><br/>
+        <a href="your-ai-project-2"><img src="https://img.shields.io/badge/View_Project-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+        <p>Brief description of your AI project</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🎯 Current Focus
