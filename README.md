@@ -58,28 +58,6 @@ const developer = {
 </div>
 </details>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&ring_color=6366f1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousafkhanzadaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=buefy&hide_border=true">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yousafkhanzadaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </picture>
-</div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark&hide_border=true&bg_color=00000000&color=6366f1&line=6366f1&point=6366f1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=minimal&hide_border=true">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yousafkhanzadaa&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-  </picture>
-</div>
-
 ## 🏆 Featured Projects
 
 **📱 Mobile Applications**
@@ -156,11 +134,7 @@ const developer = {
   </p>
 </div>
 
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
 ---
 <div align="center">
   ⭐️ From Yousuf Khan (https://github.com/yousafkhanzadaa) | Last Updated: February 2024
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
