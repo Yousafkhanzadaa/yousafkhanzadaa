@@ -14,7 +14,7 @@
 const developer = {
     name: "Yousuf Khan",
     role: "Full Stack Developer & AI Engineer",
-    experience: "8+ years",
+    experience: "6+ years",
     languages: ["JavaScript", "Python", "Dart", "TypeScript"],
     techStack: {
         mobile: ["Flutter", "Android", "iOS"],
