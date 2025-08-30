@@ -20,9 +20,9 @@ const developer = {
         mobile: ["Flutter", "Android", "iOS"],
         frontend: ["Next.js", "React", "HTML5", "CSS3"],
         backend: ["FastAPI", "Node.js", "Firebase"],
-        ai: ["OpenAI", "RAG", "LangChain", "Fine-tuning", "Mistral", "DeepSeek", "Claude", "LLAMA"],
+        ai: ["MCP", "n8n", "OpenAI", "RAG", "LangChain", "Fine-tuning", "Mistral", "DeepSeek", "Claude", "LLAMA"],
         database: ["MongoDB", "Firebase", "PostgreSQL"],
-        cloud: ["AWS", "Cloudflare", "GCP"]
+        cloud: ["AWS", "Cloudflare", "GCP", "Vercel", "Railway.io"]
     },
     currentFocus: "Building AI-powered SaaS products"
 };
